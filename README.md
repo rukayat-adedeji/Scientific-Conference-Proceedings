@@ -3,6 +3,7 @@
 This repository serves as a personal archive for all my scientific conference materials, including:
 
 - **Abstracts**: Collection of abstracts submitted to various scientific conferences.
+  ![Abstract Image]([images/abstract.png](Adedeji_FOP_abstract.png))
 - **Presentations**: Slide decks or poster presentations delivered during conferences.
 - **Certificates**: Proof of participation or recognition received from conferences and workshops.
 
